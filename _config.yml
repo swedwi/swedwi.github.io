@@ -16,10 +16,10 @@
 theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "Libellus"
+description: "Thoughts. Ideas. Musings."
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://swedwi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
@@ -34,7 +34,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
+  username: "sweptica" # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
@@ -87,13 +87,13 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: "Sweta Dwivedi"
   picture:
-  email:
+  email: # sweta.dy@gmail.com
   twitter:
   links:
-    - title:
-      url:
+    - title: "LinkedIn"
+      url: "https://www.linkedin.com/in/swetadi/"
       icon:
 
 # Footer Links
